@@ -29,8 +29,4 @@ define('USER', 'root');
 define('PASSWORD', '');
 define('DB_NAME', 'ai_clocker');
 
-//////////////////////////////////////
-// Valores configuracion
-/////////////////////////////////////
-
 define('ERROR_REPORTING_LEVEL', -1);

@@ -1,0 +1,26 @@
+body{
+    margin: 0 auto;
+    font-family: 'Raleway', sans-serif;
+}
+
+h1{
+    font-family: 'Quicksand', sans-serif;
+}
+
+.button{
+    background-color: #fff;
+    text-transform: uppercase;
+    color: #000009;
+    border: 1px solid #fff;
+}
+
+.button :hover{
+    background: #000009;
+    opacity: 0.5;
+    font-weight: bold;
+}
+
+.button :visited{
+    background: #000225;
+    opacity: 1;
+}
